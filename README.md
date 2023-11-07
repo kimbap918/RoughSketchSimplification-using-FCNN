@@ -44,21 +44,18 @@
 로컬 머신에 저장소를 복제하세요.
 
 ```
-BatchfileCopy code
 git clone https://github.com/ishanrai05/rough-sketch-simplification-using-FCNN
 ```
 
 Python3를 사용하여 가상 환경을 시작하세요.
 
 ```
-BatchfileCopy code
 virtualenv env
 ```
 
 의존성을 설치하세요.
 
 ```
-BatchfileCopy code
 pip install -r requirements.txt
 ```
 

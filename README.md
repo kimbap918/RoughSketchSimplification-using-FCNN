@@ -74,7 +74,6 @@ Google Colab 노트북을 사용할 수도 있습니다. 이 경우에는 저장
 모델을 훈련하려면 다음을 실행하세요.
 
 ```
-BatchfileCopy code
 python main.py --train=True
 ```
 

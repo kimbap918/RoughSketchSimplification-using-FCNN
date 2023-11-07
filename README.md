@@ -30,7 +30,7 @@
 
   - [5. 모델 아키텍처](https://chat.openai.com/c/905726a9-018d-4e5c-b4ed-f71a564d0256#5-모델-아키텍처)
 
-  - 6. 관측
+  - [6. 관측](https://github.com/kimbap918/RoughSketchSimplification-using-FCNN/edit/master/README.md#6-%EA%B4%80%EC%B8%A1)
 
     - [훈련](https://chat.openai.com/c/905726a9-018d-4e5c-b4ed-f71a564d0256#훈련)
     - [예측](https://chat.openai.com/c/905726a9-018d-4e5c-b4ed-f71a564d0256#예측)

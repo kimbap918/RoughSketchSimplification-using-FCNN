@@ -1,6 +1,6 @@
 # Rough Sketch-Simplification using Deep Learning
 
-이 저장소에는 [Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup](http://www.f.waseda.jp/hfs/SimoSerraSIGGRAPH2016.pdf) 논문의 코드가 포함되어 있습니다. 이 코드는 사용자 지정 데이터셋에서 테스트하고 훈련되었으며 PyTorch를 기반으로 합니다.
+이 저장소에는 [Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup](https://esslab.jp/~ess/publications/SimoSerraSIGGRAPH2016.pdf) 논문의 코드가 포함되어 있습니다. 이 코드는 사용자 지정 데이터셋에서 테스트하고 훈련되었으며 PyTorch를 기반으로 합니다.
 
 
 
